@@ -1,2 +1,2 @@
 # bulma-accordion
-Created with CodeSandbox
+Accordion using Bulma and implemented on React JS 🪗
